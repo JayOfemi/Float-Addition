@@ -26,7 +26,7 @@ int main(void)
 
   //Triple while loop To test all exponent values with random significands
   double wrong = 0;
-  int loop = 10000;
+  int loop = 7650;
   int i = 0;
   while(i < 256)
   {
